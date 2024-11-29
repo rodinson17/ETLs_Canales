@@ -315,7 +315,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <job_object_id/>
-      <filename>C:/Users/rodin/Music/Especializacion DB/2 semestre/Trabajo final/ETLs/DWH/dimensiones/Job dimensiones.kjb</filename>
+      <filename>${Internal.Entry.Current.Directory}/dimensiones/Job dimensiones.kjb</filename>
       <jobname/>
       <directory/>
       <arg_from_previous>N</arg_from_previous>
@@ -352,7 +352,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>C:/Users/rodin/Music/Especializacion DB/2 semestre/Trabajo final/ETLs/DWH/movimientos/fact movimientos transacionales.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/movimientos/fact movimientos transacionales.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>

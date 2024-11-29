@@ -570,7 +570,10 @@ AND AC.[FECHA_FIN] = @FECHA_FIN
 
 LEFT JOIN [DWH_CANALES].[DIMENSIONES].[MECANISMOS_CONFIRMACION] MC
 ON  MOV.CODIGO_MECANISMO_CONFIRMACION = MC.CODIGO_MECANISMO
-AND MC.[FECHA_FIN] = @FECHA_FIN</sql>
+AND MC.[FECHA_FIN] = @FECHA_FIN
+
+WHERE [SK_CALENDARIO] > 20240630
+</sql>
     <limit>0</limit>
     <lookup/>
     <execute_each_row>N</execute_each_row>
@@ -864,7 +867,7 @@ AND MC.[FECHA_FIN] = @FECHA_FIN</sql>
       </output>
     </remotesteps>
     <GUI>
-      <xloc>272</xloc>
+      <xloc>352</xloc>
       <yloc>192</yloc>
       <draw>Y</draw>
     </GUI>
@@ -956,7 +959,7 @@ AND MC.[FECHA_FIN] = @FECHA_FIN</sql>
       </output>
     </remotesteps>
     <GUI>
-      <xloc>768</xloc>
+      <xloc>752</xloc>
       <yloc>192</yloc>
       <draw>Y</draw>
     </GUI>

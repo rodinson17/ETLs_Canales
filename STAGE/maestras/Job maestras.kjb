@@ -315,7 +315,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>C:/Users/rodin/Music/Especializacion DB/2 semestre/Trabajo final/ETLs/STAGE/maestras/actividades ciiu.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/actividades ciiu.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -366,7 +366,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>C:/Users/rodin/Music/Especializacion DB/2 semestre/Trabajo final/ETLs/STAGE/maestras/fechas.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/fechas.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -405,7 +405,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>C:/Users/rodin/Music/Especializacion DB/2 semestre/Trabajo final/ETLs/STAGE/maestras/entidades.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/entidades.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -444,7 +444,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>C:/Users/rodin/Music/Especializacion DB/2 semestre/Trabajo final/ETLs/STAGE/maestras/unidad de captura.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/unidad de captura.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -483,7 +483,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>C:/Users/rodin/Music/Especializacion DB/2 semestre/Trabajo final/ETLs/STAGE/maestras/canales.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/canales.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -522,7 +522,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>C:/Users/rodin/Music/Especializacion DB/2 semestre/Trabajo final/ETLs/STAGE/maestras/servicios.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/servicios.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -561,7 +561,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>C:/Users/rodin/Music/Especializacion DB/2 semestre/Trabajo final/ETLs/STAGE/maestras/departamentos y municipios.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/departamentos y municipios.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -600,7 +600,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>C:/Users/rodin/Music/Especializacion DB/2 semestre/Trabajo final/ETLs/STAGE/maestras/operaciones.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/operaciones.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -639,7 +639,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>C:/Users/rodin/Music/Especializacion DB/2 semestre/Trabajo final/ETLs/STAGE/maestras/tipo persona.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/tipo persona.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -678,7 +678,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>C:/Users/rodin/Music/Especializacion DB/2 semestre/Trabajo final/ETLs/STAGE/maestras/mecanismos de confirmacion.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/mecanismos de confirmacion.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>

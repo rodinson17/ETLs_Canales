@@ -493,7 +493,7 @@
   </connection>
   <order>
     <hop>
-      <from>Pasar a mayusculas - quitar espacios</from>
+      <from>mayusculas - quitar espacios</from>
       <to>Poblar la dimension actividade ciiu</to>
       <enabled>Y</enabled>
     </hop>
@@ -504,7 +504,7 @@
     </hop>
     <hop>
       <from>Seleccionar valores</from>
-      <to>Pasar a mayusculas - quitar espacios</to>
+      <to>mayusculas - quitar espacios</to>
       <enabled>Y</enabled>
     </hop>
   </order>
@@ -616,7 +616,7 @@ FROM [STG_CANALES].[maestras].[ACTIVIDADES_CIIU]</sql>
     </GUI>
   </step>
   <step>
-    <name>Pasar a mayusculas - quitar espacios</name>
+    <name>mayusculas - quitar espacios</name>
     <type>StringOperations</type>
     <description/>
     <distribute>Y</distribute>
@@ -650,7 +650,7 @@ FROM [STG_CANALES].[maestras].[ACTIVIDADES_CIIU]</sql>
       </output>
     </remotesteps>
     <GUI>
-      <xloc>544</xloc>
+      <xloc>464</xloc>
       <yloc>160</yloc>
       <draw>Y</draw>
     </GUI>
@@ -717,7 +717,7 @@ FROM [STG_CANALES].[maestras].[ACTIVIDADES_CIIU]</sql>
       </output>
     </remotesteps>
     <GUI>
-      <xloc>832</xloc>
+      <xloc>688</xloc>
       <yloc>160</yloc>
       <draw>Y</draw>
     </GUI>
@@ -736,15 +736,12 @@ FROM [STG_CANALES].[maestras].[ACTIVIDADES_CIIU]</sql>
     <fields>
       <field>
         <name>GRUPO</name>
-        <rename/>
       </field>
       <field>
         <name>CLASE</name>
-        <rename/>
       </field>
       <field>
         <name>DESCRIPCION</name>
-        <rename/>
       </field>
       <select_unspecified>N</select_unspecified>
       <meta>
@@ -808,7 +805,7 @@ FROM [STG_CANALES].[maestras].[ACTIVIDADES_CIIU]</sql>
       </output>
     </remotesteps>
     <GUI>
-      <xloc>320</xloc>
+      <xloc>288</xloc>
       <yloc>160</yloc>
       <draw>Y</draw>
     </GUI>
